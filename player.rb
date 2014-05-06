@@ -6,7 +6,7 @@ class Player
     @score = Hash.new(0)
   end  
 
-  def name
+  def name 
     "I am #{@name}"
   end
 
