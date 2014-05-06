@@ -1,4 +1,4 @@
-require_relative 'game_turn'
+require_relative 'dice'
 require_relative 'player'
 
 describe "A turn" do

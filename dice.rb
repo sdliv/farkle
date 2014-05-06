@@ -18,3 +18,8 @@ class Dice
     @dice_number
   end
 end
+
+if __FILE__ == $0
+  d = Dice.new
+  puts d.dice_number
+end

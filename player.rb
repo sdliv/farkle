@@ -1,5 +1,3 @@
-require_relative 'dice'
-
 class Player
   def initialize(name)
     @name = name.capitalize
